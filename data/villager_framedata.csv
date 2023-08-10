@@ -1,0 +1,25 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,3,-16,3—4,17,--,--,1.0
+Jab 2,3,-18,3—4,19,--,--,1.0
+Rapid Jab,3/8/12...,--,**,--,--,--,1.0
+Rapid Jab Finisher,4/5,-28,**,--,--,--,2.0
+Forward Tilt,8,-16,8—11,22,--,--,9.0
+Up Tilt,7/22,-34/-19,7—18/22—25,22,--,--,5.0/6.0
+Down Tilt,9,-17/-18,9—11,26,--,Close/Far,12.0/10.0
+Dash Attack,9...,-22,"9-14/15-22 (Normal)
+		9-14/15-68 (Off-Ledge)",--,--,Early/Late,10.0/6.0
+Forward Smash,25,-4,25—30(31—144),--,--,Early/Late,15.0/17.0
+Up Smash,12...,-8,12—13/17—18/21—22/25—26/29—30/33—34,19,--,--,3.0/1.0/4.0
+Down Smash,9/29,-35/-15,9(10—11)/29(30—31),18,--,Close/Far,6.0/3.0
+Neutral Air,3,-4/-5,3—10(11—23),12,8,Early/Late,9.0/5.0
+Forward Air,10,-4,10—12(13—18/19—23),16,14,Early/Late/Later,7.0/4.0/2.5
+Back Air,13,-3,13—15(16—21/22—26),9,14,Early/Late/Later,9.0/5.0/3.0
+Up Air,6,-7/-8/-8,6—7(8—21),21,12,3/2/1 turnips,13.0/10.0/8.0
+Down Air,11,-7/-8/-8,11—12(13—26),16,12,3/2/1 turnips,13.0/10.0/8.0
+Neutral B (Pocket),8 (Start of projectile pocket),**,8—23 (pocket),--,--,--,**
+"Pocket, Throw",9,**,**,--,--,--,**
+Side B (Lloid Rocket),52,+27,52—116(117—176),--,--,Early/Late,7.0/5.0
+Up B (Balloon Trip),**,--,**,--,30/20,--,--
+"Down B (Timber Plant, Timber Water)","--, 5",--,"--, 5—20",18,--,--,--
+Timber Tree Grow/Fall,46/16,+14 / -11,**,--,--,--,18.0/25.0
+Timber Axe,6,-28/-35,6—8,39,--,--,14.0

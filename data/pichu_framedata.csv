@@ -1,0 +1,18 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab,2,-11,2—3,13,--,--,1.2
+Forward Tilt,5,-11,5—12,12,--,--,8.0
+Up Tilt,7,-10,7—14,9,--,--,5.0
+Down Tilt,7,-4,7—8,10,--,--,6.0
+Dash Attack,6,-20,6—9/10—15,19,--,Early/Late,8.0/6.0
+Forward Smash,16/19/22/25/28/31,-16,16—18/19—21/22—24/25—27/28—30/31—33,20,--,Multi/Final,2.0/8.0
+Up Smash,9,-21,9—11,29,--,--,14.0
+Down Smash,8/11/15/19/23,-21,8—9/11—12/15—16/19—20/23—24,26,--,Multi/Final,1.5/8.0
+Neutral Air,3,-4/-4,3—9/10—27,12,7,Early/Late,7.0/5.0
+Forward Air,10/14/18/22,-10/-10,10—12/14—16/18—20/22—23,16,12,Multi/Final,3.5/3.5
+Back Air,5/11/15/19/26/30,-16/-16,5—6/11—12/15—16/19—20/26—27/30—31,23,18,Multi/Final,2.0/2.5
+Up Air,4,-8,4—9,17,11,--,4.0
+Down Air,14,-16,14—17/18—26/1—2,21,22,Early/Late/Landing,13.0/12.0/4.0
+Neutral B (Thunderjolt),18,-29/-30,18—47/48—77/78—101,--,--,Projectile/Arc,10.0/7.0—5.0
+Side B (Skull Bash),17,-20 to +3,17—52 (4—39 on charge release),44,--,--,4.0—33.0
+Up B (Agility),**,--,(No Hitbox),--,24,--,--
+Down B (Thunder),9,-27,Bolt 1: 9-11/12-67 \| Bolt 2: 16—18/19—74,12,--,Spike/Late Bolt/Self-Hit,6.0/4.0/14.0

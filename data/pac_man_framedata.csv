@@ -1,0 +1,20 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-12,4,15,--,--,2.0
+Jab 2,4,-14,4,17,--,--,2.0
+Jab 3,4,-24,4—5,28,--,--,4.0
+Forward Tilt,5,-17,5—7,23,--,--,8.0
+Up Tilt,7,-10,7—10,14,--,--,6.5
+Down Tilt,7,-13,7—9,17,--,--,6.0
+Dash Attack,10/19/28/37,-3,10—11/19—20/28—29/37,8,--,Multi/Final,2.0 / 4.0
+Forward Smash,16,-25,16—18(19—29),23,--,Early/Late,16.0/9.0
+Up Smash,11/15,-24,11/15—17(18—28),21,--,--,3.0/14.0
+Down Smash,15,-30,15—17(18—28),26,--,Early/late,13.0/7.0
+Neutral Air,3,-3/-4,3—5(6—9/10—19),32,7,Early/Late,10.0/6.0
+Forward Air,5,-6,5—8,17,10,--,7.6
+Back Air,9,-8/-10,9—11(12—16),24,13,Early/Late,11.8/7.0
+Up Air,9,-6,9—16,20,10,--,10.0
+Down Air,6/13/20/27,-10/-9,6—7/13—14/20—21/27—28,21,12,Multi/Final,2.0/7.0
+"Neutral B (Bonus Fruit, Throw)",12(+7),-22/-20/-19/-17/-16/-18/-19/-14,**,--,--,--,4.3 / 6.0 / 7.5 / 9.5 / 12.0 / 9.0 / 7.5 / 16.0
+Side B (Power Pellet (Travel \| Dash)),24—42 \| 35—53,-42 to -54,**,--,--,--,4.0—5.0 \| 6.0—12.0
+Up B (Pac-Jump),4,**,4—12/13—16/17—21,--,30,first/second/third,5.0—10.0
+Down B (Fire Hydrant),12,-11,**,--,--,initial/launched,9.0/13.0

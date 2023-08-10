@@ -1,0 +1,23 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,3,-13,3,16,--,--,2.0
+Jab 2,2,-16,2,19,--,--,1.5
+Jab 3,4,-26,4—5,30,--,--,4.0
+Forward Tilt,6/8,-20,6/8—11,24,--,--,4.0/7.0
+Up Tilt,6(7)/13,-20,6—8(7—8)/13—14,21,--,--,2.0/6.0
+Down Tilt,6,-15,6—7,20,--,--,6.0
+Dash Attack,5,-38,5—8(9—20),29,--,Early/Late,8.0/6.0
+Forward Smash,18,-19,18—20,27,--,--,14.0
+Up Smash,14...,-29,14/17/19/21/23/25/27/29-30,31,--,First/Multi/Final,5.0/1.0/3.0
+Down Smash,12,-34,12—13,41,--,--,12.0
+Neutral Air,6,-5/-6/-7,6—9(10—19/20—38),11,10,Early/Late/Later,12.0/8.0/5.0
+Forward Air,5/7/9/11/13/15,-14/-14,5/7/9/11/13/15,30,16,Multi/Final,0.8/3.0
+Back Air,13,-10/-11,13—14(15—19),18,15,Early/Late,14.0/10.0
+Up Air,5/14,-11/-9,5—7/14—15,24,13,--,3.0/8.0
+Down Air,17,-17/-18,17—19/20—32,13,21,Meteor/Late,8.0/7.0
+Neutral B (Homing Attack),17—82,-22 to -16,**,--,--,--,7.0—20.0
+Side B (Spin Dash),17,"+6 (hop)+8 (grounded, no charge)+11 (grounded, full charge)+11 (aerial, any)",**,--,--,--,5.0/7.0—10.9
+"Spin Dash, Jump",3,+4,--,--,--,--,--
+Up B (Spring Jump),4,-7,**,--,10,--,4.0
+Down B (Spin Charge),15/17/19/21,-33,**,--,-,Multi/Final,1.7—2.5/4.0
+"Spin Charge, Jump",3,-1,**,--,-,--,3.0/6.0
+"Spin Charge, Aerial",3,-1,**,--,-,--,3.0/6.0

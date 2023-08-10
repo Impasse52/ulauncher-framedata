@@ -1,0 +1,24 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-14,5—6,17,--,--,2.5
+Jab 2,4,-23,4—5,26,--,--,2.8
+Jab 3,4,-28,4—5,32,--,--,6.7
+Forward Tilt,12,-12,12—14,22,--,Far/Close,13.0/12.0
+Up Tilt,6,-19,6—11,23,--,--,9.0
+Down Tilt,9,-11,9—11,18,--,--,9.0
+Dash Attack,8,-21,8—11/12—15,26,--,Early/Late,13.0/9.0
+Forward Smash,16,-22/-24,16—18,33,--,Close/Far,20.0/16.0
+Up Smash,13,-23,13—18,29,--,--,17.0
+Down Smash,18,-28,18—20,37,--,--,17.0
+Neutral Air,5,-6/-8,5—6/7—25,16,11,Early/Late,13.0/7.0
+Forward Air,8,-9/-9,8—10(11—14),30,14,Close/Far,12.0/13.0/9.0/9.6
+Back Air,7,-7/-6,7—10,31,11,Close/Far,11.0/13.0
+Up Air,7,-4,7—11,20,8,--,8.0
+Down Air,16,-11/-11/-12,16—19/20—21,23,16,Meteor/Close/Late,15.0/14.0/9.0/8.0
+Neutral B (Darkest Lariat),5/15/23/37/50/56,-65,5—10/15—16/23—30/37—44/50—51/56—57,27,--,--,16.0—6.0
+"Side B (Alolan Whip, Grab)",16,--,16—32(grab),--,--,--,--
+"Alolan Whip, Lariat Attack",7,--,**,--,--,--,20.0
+"Alolan Whip, Back Body Drop",8,--,**,--,--,--,12.0
+"Alolan Whip, Chest Bounce (Failure)",**,--,**,--,--,--,4.0
+Up B (Cross Chop),11/38,-51,(11/13—15/16—24)(38...),41,61/35,rising/falling early/falling late/landing,3.0/7.0/11.0/9.0
+Down B (Revenge),3 (Start of Counter),--,**,--,--,--,--
+"Revenge, Counter Attack",8,**,8—9,16,--,--,2.4

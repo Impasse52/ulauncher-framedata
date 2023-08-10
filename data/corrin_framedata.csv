@@ -1,0 +1,29 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-19/-18,5—6,21,--,Close/Far,2.0/2.5
+Jab 2,4,-22,4—5,24,--,--,2.0
+Jab 3,6,-20/-19,6—7,23,--,Close/Far,3.0/4.0
+Rapid Jab,12/16/20...,**,**,--,--,--,0.5
+Rapid Jab Finisher,3,-32,3—4,35,--,--,3.0
+Forward Tilt,8,-16,8—9,25,--,--,10.5
+Up Tilt,7,-19,7—8(9—16),19,--,--,9.0
+Down Tilt,5,-17,5—7,23,--,--,7.5
+Dash Attack,12/14/16/18/20/23,-22,12/14/16/18/20/23,26,--,Multi/Final,2.0/3.0
+Forward Smash,12/17,-26/-26/-22,12—**/17—18,38,--,Charging/Close/Far/Tipper,0.5/11.0/12.0/16.7
+Up Smash,13,-31/-29/-28,13—17,34,--,Close/Far/Tipper,10.0/13.0/15.0
+Down Smash,13,-27/-28/-25,13—15,33,--,Front/Back/Tipper,11.0/9.0/14.0
+Neutral Air,6,-7/-7,6—7(8—19),27,10,Early/Late,7.0/5.5
+Forward Air,9,-4,9—12,23,8,--,9.0
+Back Air,13,-8/-9,13(14—16),25,13,Early/Late,12.0/9.0
+Up Air,7,-5,7—12,25,9,--,10.0
+Down Air,12...,-21,12—28(rehit: 2)/1—5,23,26,Falling/Landing,2.0/3.0
+Neutral B (Dragon Fang Shot),17—47,**,17—71,--,--,--,4.0—11.0
+Dragon Fang Shot (chomp),24-54-85,-31 to -19,24—25/**/85—86,--,--,--,10.0—20.0
+"Side B (Dragon Lunge, Pin)",4,-6,**,--,--,--,7.0
+"Side B (Dragon Lunge, Air)",10,--,10,27,22,Close/Tipper,8.0/15.0
+"Dragon Lunge, Pin Cancel",--,--,**,--,19,--,--
+"Dragon Lunge, Pin Jump",--,--,**,--,--,--,--
+"Dragon Lunge, Pin Kick",10,-35,10—17(18—24),32,19,Early/Late,12.0/7.0
+"Dragon Lunge, Back Kick",6,-48,6/14—21(22—28),32,19,Early/Late,5.0/7.0
+Up B (Dragon Ascent),18...,--,18—19/20—28(rehit: 2)/29—30,--,30,First/Multi/Final,4.5/1.2/3.0
+Down B (Counter Surge),7 (Start of Counter),--,7—26 (counter),--,--,--,--
+"Counter Surge, Attack",27,--,27—31,35,--,--,--

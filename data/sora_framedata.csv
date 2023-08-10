@@ -1,0 +1,30 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-22,5—12,24,--,--,2.8
+Jab 2,7,-22,7—10,27,--,--,2.6
+Jab 3,10,-23,10—17,28,--,--,4.2
+Forward Tilt (Strong/Single),13,-13,13—17,24,--,--,7.2
+FTilt 1 > FTilt 2 Combo,"13, 7",-17,"13—17, 7—10",27,--,"First Hit, Second Hit","5.2, 3.6"
+Forward Tilt 3,10,-22,10—14,31,--,--,6.4
+Up Tilt,8/12/16/20/24/28/33,-15,8—9/12—13/16—17/20—21/24—25/28—29/33—36,17,--,--,0.8/1.2/4.6
+Down Tilt,9,-16,9—10,21,--,--,5.2
+Dash Attack,7,-22,7—12(13—18/19—24),23,--,Early/Late,9.6/7.6/7.2
+Forward Smash,16,-17,16—17(18—20),32,--,Early/Late,13.8/15.4
+Up Smash,11/16,-26,11—12/16—19,33,--,**,0.6/14.6
+Down Smash,20,-25,20—23(20—22),32,--,Close/Far,15.2/14.2
+Neutral Air,8,-6,8—20,21,9,--,3.8
+Neutral Air 2,6,-8,6—10,23,10,--,3.5
+Neutral Air 3,8,-8,9—13,28,11,--,6.8
+Forward Air,10,-9,10—15,28,12,--,4.8
+Forward Air 2,6,-10,6—10,23,13,--,4.0
+Forward Air 3,8,-11,9—13,28,14,--,6.8
+Back Air,13,-6,13—15,22,11,--,13.2
+Up Air,10,-5,10—18,23,10,--,12.2
+Down Air,15,-22,15—44,13,28,Falling/Landing,9.8/5.5
+Neutral B (Firaga),16,-23,16—25/26—35/36—55,--,--,Early/Late/Latest,5.6/5.2/4.8
+Neutral B (Thundaga),30/44/58,**,"Ground: 30—52/44—66/58—80 
+		Air: 29—52/43—66/58—80",--,--,--,5.2
+Neutral B (Blizzaga),15...,-13,... see notes :),--,--,Shard/Final Shard/Final,2.4/3.6/1.8
+Side B (Sonic Blade),17/45/73,-25/-39/-43,**,--,20,First/Second/Third,5.2 (5.2/3.0)
+Up B (Aerial Sweep),9...,**,(9/10-11)/17-19/20-22/24-26/27-29/31-33/41-43,--,21,First/Multi/Final,3.8/2.1/4.6
+Down B (Counterattack),7,**,7—25 (counter),--,-,**,**
+"Down B (Counterattack, Success)",25,**,25—29,20,-,**,**

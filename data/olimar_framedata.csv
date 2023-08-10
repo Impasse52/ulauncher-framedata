@@ -1,0 +1,26 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-11/-10,4(5),14,--,Early/Late,3.0 / 4.0
+Jab 2,4,-9/-8,4—5,12,--,Close/Far,3.0/4.0
+Forward Tilt,15,-10,15—17,18,--,--,11.0
+Up Tilt,6/8/10/12/14/16,-17,6/8/10/12/14/16,22,--,Multi/Final,0.6/4.0
+Down Tilt,6,-17,6—12,17,--,--,6.0
+Dash Attack,8/11,-21,8—10/11—14,23,--,--,7.0 / 4.0
+Forward Smash,11,,"11—13(14-19/20—29)
+		Purple: 11—13(14—18/19—24)",10,--,--,"Early: 20.314.514.511.623.2
+Late: 14.010.010.08.016.0
+Later: 8.46.06.04.89.6"
+Up Smash,12,,12—13(14—16/17—22),17,--,--,"Early: 18.213.013.010.420.8
+Far: 14.010.010.08.016.0
+Late: 15.411.011.08.817.6"
+Down Smash,10,,"10—13/14—18
+		Purple: 10—13/14—15",20,--,--,"Early: 15.411.011.08.817.6
+Late: 12.69.09.07.214.4"
+Neutral Air,7/11/15/19/23,-11/-11,7—8/11—12/15—16/19—20/23—24,29,13,Multi/Final,1.5/2.0
+Forward Air,7,,7—9,33,9,--,11.98.58.56.813.6
+Back Air,10,,10—13,35,9,--,15.110.810.88.617.2
+Up Air,8,,8—15,19,18,--,12.69.09.07.214.4
+Down Air,9,,9—10(11—16),35,18,Clean/Late,12.69.09.07.214.4
+Neutral B (Pikmin Pluck),--,--,1,7,--,--,--
+Side B (Pikmin Throw),9,Purple: -6,9—128(9—108),--,--,--,Purple: 6.0
+Up B (Winged Pikmin),--,--,--,--,30/19,--,--
+Down B (Pikmin Order/Whistle),2 (Start of Super Armor),--,2—7 (armor),--,--,--,--

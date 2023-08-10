@@ -1,0 +1,22 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,2,-12,2,15,--,--,2.0
+Jab 2,3,-11,3,14,--,--,1.6
+Rapid Jab,5/4/9...,--,**,--,--,--,0.3
+Rapid Jab Finisher,5,-27,5—6,29,--,--,2.0
+Forward Tilt,5,-15,5—8,16,--,--,3.0
+Up Tilt,5/16,-11,5—8/16—23,9,--,--,3.0/4.0
+Down Tilt,5,-16,5—6,20,--,--,4.5
+Dash Attack,5,-19,5—6(7—8),26,--,--,7.0
+Forward Smash,12/20,-18,12/20—21,23,--,--,5.0/8.0
+Up Smash,11/14,-30,11/14—15,37,--,--,15.0/11.0
+Down Smash,8/15,-28,8—9/15—16,32,--,--,4.0/6.0
+Neutral Air,3,-3/-3,3—6(7—30),19,6,Early/Late,6.0/4.0
+Forward Air,5,-2/-2,5—7,27,5,Close/Far,3.8/4.5
+Back Air,4,-4/-4,4—6(7—14),23,7,(Clean (Close/Far)/Late),(7.5%/9.5%)/6.0%
+Up Air,4...,-11/-10,4—15/23—24 (rehit: 4),19,13,Multi/Final,1.0/4.0
+Down Air,15,-18,15—18/19—33/1—2,21,22,Meteor/Falling/Landing,10.0/2.0
+Neutral B (Needle Storm),4/7/10/13/16 (+7),-18,**,--,--,Close/Far,1.5/0.8
+"Needle Storm, Full Charge",11/14/17/20/23/26,-15,**,--,16,Close/Far,1.5/0.8
+Side B (Burst Grenade),13/67/70/73/76/79/82/88,+28,**,--,--,--,1.0/12.6
+Up B (Vanish),36/55,-33,36—38/55—57,38,20,--,12.0/5.0
+Down B (Bouncing Fish),18/26,-39,**,--,35/19,--,11.0

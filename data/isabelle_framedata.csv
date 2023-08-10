@@ -1,0 +1,24 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab,3,-13,3—4,15,--,--,2.0
+Forward Tilt,8,-19,8—11,25,--,--,9.0
+Up Tilt,6,-15,6—13,16,--,--,8.0
+Down Tilt,9,-10/-14,9—10,21,--,--,13.0/8.0
+Dash Attack,7,-21,"7—12/13—19 (Normal)
+		7-12/13-66 (Off Ledge)",--,--,Clean/Late,10.0/6.0
+Forward Smash,14,-20,14—16/17—19,26,--,--,17.0/8.0
+Up Smash,9/14,-12,9—10/14—16/17—18,27,--,Early/Clean/Late,2.0/12.0
+Down Smash,8/12,-28/-25,8—9/12—13,30,--,--,10.0/8.0
+Neutral Air,5/8,-2/-3,5—7/8—25,8,6,--,10.0/6.0
+Forward Air,10,-6 — +4,10—12(13—18/19—23),16,14,--,7.0/4.0/2.5
+Back Air,13,-4 — +5,13—15(16—21/22—26),9,14,--,9.0/5.0/3.0
+Up Air,6,-5/-6,6—7/8—31,11,9,--,10.0/5.0
+Down Air,11,-5/-6,11—12/13—28,14,9,--,10.0/5.0
+Neutral B (Pocket),8 (Start of projectile pocket),--,8—23,27,--,--,**
+Side B (Fishing Rod),21,**,"21—43 (Ground), 21—70+ (Air), 18 (Tether)",--,--,--,**
+"Fishing Rod, Reel In",2,**,2—11,27,--,--,**
+"Fishing Rod, Throw Forward",15,**,**,--,--,--,14.0—17.0
+"Fishing Rod, Throw Back",13,**,**,--,--,--,11.0—14.0
+"Fishing Rod, Throw Up",22,**,**,--,--,--,12.0—15.0
+"Fishing Rod, Throw Down",18/22,**,**,--,--,--,9.5—15.0
+Up B (Balloon Trip),**,**,**,--,20/30,--,**
+Down B (Lloid Trap),9/17/25/34/43/51,**,9/17/25/34/43/51,--,--,--,**

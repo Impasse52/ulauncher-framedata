@@ -1,0 +1,20 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,2,-13,2—3,16,--,--,2.9
+Jab 2,2,-16,2—3,18,--,--,1.7
+Jab 3,3,-25,3—4,29,--,--,4.7
+Forward Tilt,5,-12,5—7,18,--,--,10.5
+Up Tilt,5,-17,5—11,18,--,--,7.4
+Down Tilt,5,-14/-16,5—7,20,--,Close/Far,8.2/5.8
+Dash Attack,6,-12,6—9/10—25,12,--,Early/Late,11.5/7.0
+Forward Smash,15,-18/-20,15—17,30,--,Close/Far,20.9/17.2
+Up Smash,9,-19,9—13,26,--,--,16.4
+Down Smash,5/14,-30/-19,5—6/14,29,--,First/Second,11.7/14.1
+Neutral Air,3,-4/-3,3—10/11—27,18,7,Early/Late,5.9/11.7
+Forward Air,16,-11/-12,16/17—20/21,38,17,Early/Clean/Late,11.7/17.6/10.5
+Back Air,6,-5/-6,6—8/9—13,20,10,Early/Late,14.1/8.2
+Up Air,4,-4,4—7,23,8,--,10.2
+Down Air,14,-8,14—17,25,13,--,14.1
+Neutral B (Megavitamin Pill),17,-23,17—46/47—86,--,--,Early/Late,5.8/4.7
+Side B (Super Sheet),12,-15,12—16,19,--,--,8.2
+Up B (Super Jump Punch),3,--,3—5/6—19,--,30,Early/Late,14.1 / 7.0
+Down B (Dr. Tornado),10/14/18/22/26/30/40,-30,10/14/18/22/26/30/40—41,33,--,Multi/Final,1.8/3.5

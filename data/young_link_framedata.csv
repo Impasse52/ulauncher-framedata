@@ -1,0 +1,25 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-10,4—5,12,--,--,2.0
+Jab 2,6,-7,6—7,9,--,--,1.5
+Jab 3,6,-25,6—7,28,--,--,3.5
+Rapid Jab,3/5/7,--,**,--,--,--,0.3
+Rapid Jab Finisher,4,-37,4—5,40,--,--,2.5
+Forward Tilt,10,-12/-13,10—12,21,--,Close/Far,12.0/11.0
+Up Tilt,9,-14,9—14,17,--,--,8.0
+Down Tilt,8,-7/-8/-10,8—9,16,--,Close/Medium/Far,10.0/9.0/7.0
+Dash Attack,8,-16,8—10,24,--,Close/Far,11.0/10.0
+Forward Smash 1,15,-27,15—16,31,--,--,6.0
+Forward Smash 2,11,-30,11—12,37,--,--,12.0
+Up Smash,10/25/41,-22,10—14/25—29/41—45,24,--,Multi/Final,3.0/8.0
+Down Smash,9/21,-31/-33/-20/-21,9—10/21—22,27,--,"Close/far, Close/far",13.0/10.0/12.0/9.0
+Neutral Air,4,-2/-3,4—5(6—27),8,6,Early/Late,10.0/5.0
+Forward Air,14/24,-3/-2,14—15/24—25,15,6,First/Second Close/Second Far,6.0/8.0/7.0
+Back Air,6/18,-3/-3,6—8/18—20,9,6,--,5.0/7.0
+Up Air,5,-9,5—7(8—49),10,14,Early/Late,15.0/12.0
+Down Air,13,Bounce: ** \| Fast Fall: -11/-12,13—15(16—64),15,17,Early/Late/Pogo,18.0/15.0/9.0
+Z Air,9,-3,9—16,55,8,--,4.0
+Neutral B (Fire Arrow),14—47,-16 to -10,**,--,--,Uncharged—Full Charge,4.0—12.0
+Side B (Boomerang),27,-8 to -4,27—29(30—82/83—153),--,--,--,7.0—11.0 (normal) // 8.4/13.2 (smash) // 2.0 (return)
+Up B (Spin Attack),9...,-17,9—47/49 (rehit: 4),21,--,--,1.0/3.0
+"Up B, Air (Spin Attack, Air)",8/12/16/19/22/26/31/39/47,--,8—10/12—13/16—18/19—20/22—24/26—27/31—33/39—40/47—51,--,24,First/Multi/Final,3.0/2.0/3.0
+Down B (Bomb Pull),17,--,**,--,--,--,--

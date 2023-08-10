@@ -1,0 +1,21 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab,5,-12,5—6,15,--,--,3.0
+Rapid Jab,5/8/11...,--,**,--,--,--,0.8
+Rapid Jab Finisher,6,-30,6—7,33,--,--,2.5
+Forward Tilt,10,-15/-15/-16,10—11,24,--,Close/Med/Far,11.0/10.0/9.0
+Up Tilt,8,-14/-15/-15,8(9—13),16,--,"Early close/med/far, Late med/far","7.0/6.0/5.5, 5.0/4.0"
+Down Tilt,6,-11/-12/-12,6—7,16,--,Close/med/far,5.0/4.5/4.0
+Dash Attack,10,-14,10—11(12—20),18,--,Early/Late,12.0/6.0
+Forward Smash,19,-20/-18,19—22,30,--,Close/Far,16.0/20.0
+Up Smash,9/14/18/22,-39,9(10—11)/14—15/18—19/22—25,43,--,Multi/Final,2.0/10.0
+Down Smash,21,-8,21—23,17,--,--,16.0
+Neutral Air,7/11/15/19/23/27,-8/-7,7—8/11—12/15—16/19—20/23—24/27—28,21,10,Multi/Final,1.6/4.0
+Forward Air,7,-3,7—9,30,8,--,13.0
+Back Air,13,-5/-6/-6,13—17,22,10,Close/med/far,13.0/11.0/9.0
+Up Air,10,-3/-4/-4,10—14,25,8,Close/med/far,12.0/11.0/10.0
+Down Air,15,-6,15—18,29,11,--,15.0/14.0
+Neutral B (Shadow Ball),9(+12),-16 to -2,**,--,29,--,2.5—24.9
+"Shadow Ball, Fully Charged",16,-2,16—98,--,--,--,25.0
+Side B (Confusion),10 (21/23/25/27/29/31/33/39),--,10—13,26,--,--,--
+Up B (Teleport),**,--,--,--,20,--,--
+Down B (Disable),16,-30,16—23,29,--,--,1.0

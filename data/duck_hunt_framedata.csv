@@ -1,0 +1,28 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-18,4,21,--,--,1.5
+Jab 2,5,-19,5—6,21,--,--,1.5
+Jab 3,6,-21,6—7,26,--,--,5.0
+Rapid Jab,5/7/9/...,--,**,--,--,--,0.4
+Rapid Jab Finisher,5,-36,5,40,--,--,3.0
+Forward Tilt,8,-15,8—11,20,--,--,8.0
+Up Tilt,7,-13,7—11,16,--,--,7.0
+Down Tilt,6,-13,6—7,20,--,--,8.0
+Dash Attack,10,-23,10—13(14—19),24,--,Early/Late,10.0/7.0
+Forward Smash,17/23/29,-30,17—18/23—24/29—30,36,--,Multi/Final,4.0/9.0
+Up Smash,12/20/28,-22,12—13/20—21/28—29,28,--,Multi/Final,2.5/10
+Down Smash,12/20/28,-24,12—13/20—21/28—29,28,--,Multi/Final,5.0/6.0
+Neutral Air,6,-6/-7,6—8(9—37),18,10,--,11./5.0
+Forward Air,7,-5/-6/-6,7(8—9/10—11),33,9,Far/Close/Late,10.0/6.5/7.5
+Back Air,7,-9/-10,7—8(9—10),31,14,Far/Close,12.5/10.0
+Up Air,6/12/20,-9/-8,6—7/12—13/20—21,18,11,Multi/Final,3.0/6.0
+Down Air,14/20,-12/-11,14—15/20—21,28,15,--,5.0/10.0
+Neutral B (Trick Shot),1 / 16 / 1—2,--,1 / 16—** / 1—2,39,--,Can/Explosion,~2.0/10.0
+Side B (Clay Shooting),17,--,17—**,--,--,--,2.0
+"Clay Shooting, Detonate",4/5/14/23,--,**,--,--,Multi/Final,2.5/3.0
+Up B (Duck Jump),--,--,**,--,30,--,--
+Down B (Wild Gunman),--,--,**,--,--,--,--
+"Wild Gunman, Leader in brown coat",55,--,**,--,--,--,10.0
+"Wild Gunman, Black suit",67,--,**,--,--,--,9.0
+"Wild Gunman, Sombrero guy",73,--,**,--,--,--,11.0
+"Wild Gunman, Short cowboy",79,--,**,--,--,--,8.0
+"Wild Gunman, Tall cowboy",91,--,**,--,--,--,8.0

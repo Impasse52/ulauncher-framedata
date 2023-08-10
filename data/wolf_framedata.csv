@@ -1,0 +1,20 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-14,4,17,--,--,2.0
+Jab 2,4,-14,4,17,--,--,2.0
+Jab 3,4,-25,4,30,--,--,4.0
+Forward Tilt,8/9,-19,8/9—10,24,--,--,5.0/6.0
+Up Tilt,7,-18,7—11,24,--,Early Front/Tip/Mid/Close,10.0/8.0/9.0/10.0
+Down Tilt,5,-16,5—6,21,--,--,6.0
+Dash Attack,11,-16,11—14/15—18,19,--,Early/Late,11.0/8.0
+Forward Smash,20,-10,20—23,18,--,--,15.0
+Up Smash,13/20,-29/-19,13—15/20—23,24,--,Early/Late,6.0/12.0
+Down Smash,14/21,-19/-18/-14/-12,14—15/21—22,21,--,"First close/far, Second close/far","14.0/16.0, 12.0/14.0"
+Neutral Air,7,-4/-5,7—9/10—26,16,9,Early/Late,12.0/8.0
+Forward Air,7,-6,7—9,31,10,--,9.0
+Back Air,13,-11/-10,13—15,29,15,Close/Mid/Far,11.0/13.0/15.0
+Up Air,7,-5,7—9,29,10,--,12.0
+Down Air,16,-14/-14,16—17,36,19,Far/Close,15.0/13.0
+Neutral B (Blaster),15/16,-24,15—19/16—50,2,--,Bayonet/Shot,7.0 (Melee) / 6.0 (Early shot) / 8.0 (Mid shot) / 7.0 (Late shot)
+Side B (Wolf Flash),18,**,**,--,29,Sweet/Sourspot/Trail,20.0/15.0/3.0
+Up B (Fire Wolf),18...,-24,18—20/27—32(Rehit :2)/37—38,28,36,First/Multi/Final,4.0/2.5/5.0
+Down B (Reflector),6,-19,**,--,--,--,4.0

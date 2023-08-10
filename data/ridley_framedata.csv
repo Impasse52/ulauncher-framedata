@@ -1,0 +1,25 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-16,4—5,18,--,--,2.0
+Jab 2,5,-18,5—6,20,--,--,1.5
+Jab 3,4,-25,4—5,30,--,--,5.0
+Rapid Jab,4/7/10...,**,**,--,--,--,0.7
+Rapid Jab Finisher,4,-38,4—5,40,--,--,2.0
+Forward Tilt,10,-12/-10,10—11,21,--,Close/Far,10.0/13.0
+Up Tilt,8,-14/-12,8—12,17,--,--,7.0/9.0
+Down Tilt,9,-15/-12,9—11,19,--,Close/Far,6.0/9.0
+Dash Attack,12,-16,12—13,26,--,--,12.0
+Forward Smash,18,-22,18—21,32,--,--,20.0
+Up Smash,12,-24,12—17,30,--,--,17.0
+Down Smash,24,-22,24—27,30,--,--,16.0
+Neutral Air,8,-8/-7/-9,8—14/15—20,19,12,Early Tail/Early Tip/Late Tail/Late Tip,9.0/12.0/(5.0/8.0
+Forward Air,10/13/16,(-14/-13)/(-13/-13),10—11/13—14/16—17,24,16,(Multi close/far)/(Final close/far),(3.0/5.0)/(5.0/7.0)
+Back Air,10,-12,10—12,31,17,--,16.0
+Up Air,11,-9/-9,11—13,26,14,Far/Close,14.0/14.0
+Down Air,11,-27/-27,11—18/19—40,15,32,Early Meteor/Late,14.0/12.0
+Neutral B (Plasma Breath),29 \| 56/65/73/84/92,-23 // -1,29—58/59—78 \| ***,--,--,Early / Late,4.5/3.5 \| 5.67/4.41
+Side B (Space Pirate Rush),22,**,22—34,44,--,--,--
+"Side B (Space Pirate Rush, Air)",22,**,22—34,26,--,--,--
+"Side B (Space Pirate Rush, Success)",10/24/28/32...,**,**,--,--,Initial / Drag,4.0/2.0
+"Space Pirate Rush, Manual/Ledge/Air Release",2/7/2,**,**,--,--,Ground/Ledge/Air,7.0/7.0/7.0
+Up B (Wing Blitz),34/36/37,-28,34—57/36—55/37—59,--,32/35,Up/horizontal/down/landing,18.0 / 16.0 / 15.0 / 5.0
+Down B (Skewer),30,-29,30—31,65,--,graze \| skewer,5.0 \| 45.0 / 10.0

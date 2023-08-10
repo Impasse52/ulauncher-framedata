@@ -1,0 +1,20 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,3,-13,3—4,16,--,--,3.0
+Jab 2,3,-13,3—4,16,--,--,3.0
+Forward Tilt,7,-18,7—9,24,--,Close/Mid/Far,7.0/8.0/10.0
+Up Tilt,4/6,-14,4—5/6—7,19,--,Hit 1/Hit 2 Far/Hit 3 Close,3.0/5.0/6.0
+Down Tilt,3,-5,3,11,--,--,5.0
+Dash Attack,7,-17,7—8,23,--,--,7.0
+Forward Smash,16,-28/-30/-33,16—17,37,--,Close/Far/Farther,15.0/11.5/6.0
+Up Smash,10/14,-35/-24,10—11/14—18,30,--,Hit 1/Hit 2 Close/Hit 2 Far,3.0/14.0/13.0
+Down Smash,7/11/16,-25,7—8/11—12/16,29,--,Multi Close/Multi Far/Final,3.5/3.0/5.0
+Neutral Air,14,-4/-3,14—32,15,7,Close/Final,7.5/9.5
+Forward Air,6,-6,6—8,27,9,--,7.0
+Back Air,19,-8/-9,19—23/24—32,20,13,Early Close/Early Far/Late Close/Late Far,15.0/13.0/9.0/7.5
+Up Air,7/9/13/17/23,-11/-10,7/9/13/17/23—24,27,13,Multi/Final,1.5/4.0
+Down Air,20,-44/-45/-46,20—21/20—26/22—26,43,12,Early/Late (Close/Mid (Aerial)/Mid (Grounded)/Far),(12.0/11.0/11.0/6.0)/(8.0/11.0/8.0/6.0)
+Neutral B (Robo Beam),25,"-17/-16/-17, -17/-6/-10","25—27 (melee), 25—43 (small beam), 25—66 (large beam)",--,--,"Small Beam Close/Far/farther, Large Beam Melee/beam/both","7.0/4.5/11.5, 7.0/15.0/22.0"
+Side B (Arm Rotor),13...,-37,13/14—21/22—37/44,41,--,Multi/Final,1.5/3.0
+"Side B (Arm Rotor, Mashing)",13/18/23/28/33/38/ 43/48/53/58/66,-37,--,--,--,Multi/Final,1.5/3.0
+Up B (Robo Burner),--,--,--,--,--,--,--
+Down B (Gyro),"3(+6), 9","-26 to -21, -21",--,--,--,"Normal, Full Charge","3.6—10.7, 10.7"

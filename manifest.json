@@ -1,0 +1,19 @@
+{
+  "required_api_version": "2",
+  "name": "Framedata",
+  "description": "Seek framedata for your game.",
+  "developer_name": "Giuseppe Termerissa",
+  "icon": "images/logo.png",
+  "options": {
+    "query_debounce": 0.05
+  },
+  "preferences": [
+    {
+      "id": "framedata",
+      "type": "keyword",
+      "name": "Framedata",
+      "description": "usage: fd character_name move_name",
+      "default_value": "fd"
+    }
+  ]
+}

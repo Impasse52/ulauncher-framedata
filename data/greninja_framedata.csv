@@ -1,0 +1,24 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,3,-15,3,18,--,--,2.0
+Jab 2,3,-15,3—4,17,--,--,2.0
+Jab 3,5,-26,5—6,29,--,--,3.0
+Rapid Jab,5/8/11/14...,--,**,--,--,--,0.5
+Rapid Jab Finisher,4,-39,4—5,42,--,--,2.0
+Forward Tilt,10,-15/-14,10—12,20,--,No Angle/Angled,7.3/8.3
+Up Tilt,9,-18,9—12,20,--,--,4.5
+Down Tilt,5,-12,5—6,16,--,--,4.0
+Dash Attack,7,-13,7—11,17,--,--,8.0
+Forward Smash,13,-26,13—15,34,--,--,14.0
+Up Smash,12/18,-23,12—17/18(19—20/21),30,--,First/Second/Late,5.0/14.0/11.0
+Down Smash,11,-29,11—12(13),36,--,Far/Close,13.0/11.0
+Down Taunt,30,**,30—73 (rehit: 3),6,--,--,0.5
+Neutral Air,12,-3/-4,12—13(14—19),33,7,--,11.0/6.0
+Forward Air,16,-6,16—17,37,11,--,14.0
+Back Air,5/7/11,-8/-7,5/7/11—14,26,10,--,3.0/2.5/6.0
+Up Air,7/10/13/16/19/22,-12/-12,7—8/10—11/13—14/16—17/19—20/22,19,14,Multi/Final,1.3/3.0
+Down Air,17,-16,17—19(20—45),6,30,Early/Late,8.0
+Neutral B (Water Shuriken),20—60,-18 to -13,20—35 — 60—95,--,--,partial charge/full charge,"3.0—10.8, 1.0/9.0"
+Side B (Shadow Sneak),24(+5),-29/-28,24—25,38,--,Front/Back Kick,10.0/12.0
+Up B (Hydro Pump),19,--,**,--,32,--,2.0
+Down B (Substitute),8 (Start of Counter),--,8—34 (counter),--,--,--,--
+"Down B, Attack (Substitute, Attack)",19,-33/-32,19,44,--,Side/Up or Down,11.0/13.0

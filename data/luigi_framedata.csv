@@ -1,0 +1,22 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,2,-13,2—3,15,--,--,2.0
+Jab 2,3,-12,3—4,14,--,--,2.0
+Jab 3,6,-19,6—7,23,--,--,4.0
+Forward Tilt,5,-18,5—7,25,--,--,9.0
+Up Tilt,5,-15,5—10,17,--,--,6.0
+Down Tilt,5,-2,5—8,5,--,--,5.0
+Dash Attack,4/8/12/16/25,-18,4/8/12/16/25,22,--,Multi/final,2.0/4.0
+Forward Smash,12,-19,12—13,28,--,--,15.0
+Up Smash,9,-20,9—13,26,--,Far/Close,14.0/12.0
+Down Smash,6/14,-21/-13,6—7/14—15,22,--,Close/Far,15.0/14.0
+Neutral Air,3,-3/-5,3—5(6—31),13,8,Early/Late,12.0/6.0
+Forward Air,7,-9,7—10,13,13,--,8.0
+Back Air,6,-5/-6,6—7(8—13),31,10,Early/Late,14.0/8.0
+Up Air,5,-3/-4,5—7(8—11),15,7,Early/Late,11.0/7.0
+Down Air,10,-8/-8,10(11—14),14,12,Early/Late,10.0/8.0
+Z Air,14,-2,14—68,--,20,--,5.0
+Neutral B (Fireball),17,-20,17—45(46—66),--,--,Early/Late,6.0/5.0
+Side B (Green Missile),22,-26 to -14/-10,22—60,19,39,--,6.1—21.0/25.0
+"Up B (Super Jump Punch, Ground)",8,-79/-99,8(9—23),86,45,Sweet/sourspot,25.0/1.0
+"Up B (Super Jump Punch, Air)",6,**,6(7—23),--,45,Sweet/sourspot,20.0/1.0
+Down B (Luigi Cyclone),10.../40,-40,10—33(rehit:6)/40,45,--,Multi/Final,2.0/4.0

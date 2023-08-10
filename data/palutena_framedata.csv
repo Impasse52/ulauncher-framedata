@@ -1,0 +1,21 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,8,-12,8—9,15,--,--,3.0
+Rapid Jab,4/7/10...,--,4/7/10...,--,--,--,0.6
+Rapid Jab Finisher,3,-32,3,36,--,--,3.5
+Forward Tilt,14/24,-28,14—23/24—35,24,--,--,6.0/7.0
+Up Tilt,8...,-27,8—22/24—25 (rehit: 3),30,--,Multi/Final,1.4/4.5
+Down Tilt,14,-17,14—27,12,--,--,8.5 (grounded opponents) // 5.0 (aerial opponents)
+Dash Attack,6,-23/-21,6—9/10—17,23,--,Early/Late,11.0/7.0
+Forward Smash,18,-34/-36,18—20,43,--,Close/Far,16.0/13.0
+Up Smash,18,-34/-37,18—29/30—35,28,--,Early/Late,(16.0%/12.0%/9.0%)/(13.0%/9.0%/7.0%)
+Down Smash,17,-41/-42,17—19,49,--,Close/Far,15.0/13.0
+Neutral Air,5...,-10/-9,5—27/29—30 (rehit: 4),21,12,Multi/Final,1.4/5.0
+Forward Air,9,-5,9—11,33,9,--,10.0
+Back Air,8,-5,8—10,39,10,--,12.0
+Up Air,10...,-12/-11,10—22/24—25 (rehit: 3),26,14,Multi/Final,1.0/5.0
+Down Air,10,-7,10—11,47,11,--,11.0
+Neutral B (Autoreticle),24/30/36,-24,24/30/36,31,--,--,3.5
+Side B (Explosive Flame),28/33/38/43/48/53/57,-2,28/33/38/43/48/53/57,14,--,Multi/Final,1.5/5.5
+Up B (Warp),**,--,**,--,22,--,--
+Down B (Counter),7 (Start of Counter/Reflect),--,**,--,--,--,--
+"Counter, Attack/Reflect",4/--,--,4—6,30,--,Attack/Reflect,--

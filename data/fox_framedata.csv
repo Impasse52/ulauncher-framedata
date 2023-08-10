@@ -1,0 +1,21 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,2,-12,2,15,--,--,1.8
+Jab 2,2,-16,2,18,--,--,1.0
+Rapid Jab,5/7/9/...,--,5/7/9...,--,--,--,0.6
+Rapid Jab Finisher,3,-32,3,35,--,--,2.0
+Forward Tilt,6,-11/-10,6—8,15,--,No Angle/Angled,6.0/7.0
+Up Tilt,3,-18/-16,3—5(6—7),20,--,(Clean (Leg/Aerial Foot/Grounded Foot)/Late (Leg/Foot)),(6.0%/7.0%/8.0%)/(5.0%/6.0%)
+Down Tilt,7,-12/-13,7—8,19,--,Close/far,8.0/7.0
+Dash Attack,4,-17,4—7(8—15),16,--,Early/Late,6.0/4.0
+Forward Smash,13,-22,13—14,31,--,--,14.0
+Up Smash,8,-36,8—9/10—11,44,--,Early/Late,16.0/11.0
+Down Smash,6,-36,6—7,45,--,Outer/Inner,14.0/12.0
+Neutral Air,4,-3/-4,4—6/7—23,15,7,Early/Late,9.0/6.0
+Forward Air,7/11/16/21/26,-14,7—8/11—12/16—17/21—22/26—27,16,18,Last one is landing hitbox,1.8/1.2/1.72.7/4.8/2.0
+Back Air,9,-4,9—11,37,9,--,13.0
+Up Air,9/12,-10/-9,9—10/12—13,22,13,First/Second,5.0/10.0
+Down Air,5/8/11/14/17/20/23,-14,5—6/8—9/11—12/14—15/17—18/20—21/23/**,--,17,Multi/final/landing,1.4/3.0/1.0
+Neutral B (Blaster),"11/13/20, 9/11/18",-18/-19/-19,"11—12/13—19/20—32, 9—10/11—17/18—30",6,--,"Ground Early/Normal/Late, Air Early/Normal/Late",3.0/2.0/1.4
+Side B (Fox Illusion),25/25,-20/-28,25—29/25—29,26,16,Ground/Air,8.0/5.0
+Up B (Fire Fox),20/22/24/26/28/30/32/43/47,-34,20/22/24/26/28/30/32/43—46/47—72,19,20,Multi/Final,1.7/16.0
+Down B (Reflector),3,-30,--,--,--,--,2.0

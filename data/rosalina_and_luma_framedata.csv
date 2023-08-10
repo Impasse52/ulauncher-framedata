@@ -1,0 +1,35 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-13,5,15,--,--,2.0
+Jab 1 (Luma),4,**,4,--,--,--,1.5
+Jab 2,6,-16,6—7,17,--,--,2.0
+Jab 2 (Luma),6,-16,6,--,--,--,1.5
+Jab 3,7,-25,7—8,27,--,--,3.0
+Jab 3 (Luma),7,**,7—8,--,--,--,3.0
+Rapid Jab,2/5/8/11...,--,2/5/8/11...,--,--,--,0.3
+Rapid Jab (Luma),3/6/9/12...,--,3/6/9/12...,12,--,--,0.1
+Rapid Jab Finisher,5,-30,6—7,31,--,--,2.5
+Rapid Jab Finisher (Luma),5,-30,6—7,--,--,--,1.5
+Forward Tilt,7,-26,7—9,28,--,--,7.5
+Forward Tilt (Luma),8,-20,8—10,--,--,--,6.7
+Up Tilt,7,-22,7—10/11—17,23,--,Early/Late,10.0/8.0
+Up Tilt (Luma),3,-26,3/4—5/6—10,--,--,Early/Late/Later,12.0/6.0/4.5
+Down Tilt,5,-22,5—8,24,--,--,5.5
+Down Tilt (Luma),8,-26,8—13,--,--,--,5.2
+Dash Attack,6/17,-31/-19,6—9/17—19,21,--,--,3.0/4.0
+Dash Attack (Luma),6,-31/-25,6—8,--,--,--,4.5
+Forward Smash,16,-36/-32,16—18,33,--,Normal/Sour,12.0
+Forward Smash (Luma),17,-21,17—18,--,--,--,10.5
+Up Smash,8,-34,8—16,31,--,--,12.0
+Up Smash (Luma),10,-34,10—12/13—17,--,--,--,9.0
+Down Smash,6/17,-30/-18,6—7/17—18,23,--,--,7.0/9.0
+Down Smash (Luma),7/19,-21/-18,7—8/19—20,--,--,--,6.0/7.5
+Neutral Air,9,-4/-5,9/10—19/20—31/32/33,10,8,Early/Late,10.0/7.0
+Neutral Air (Luma),7/13,**,7—9/13—14,--,--,--,3.0/3.0
+Forward Air,10/13/16/19/22,-14/-13,10—20(rehit rate: 3)/22,37,16,Multi/Final,1.0/4.0
+Forward Air (Luma),11,**,11—13,--,--,--,4.5
+Back Air,9,-6,9—11,43,10,--,11.0
+Back Air (Luma),10,**,10—15,--,--,--,6.0
+Up Air,8,-7/-8/-9,8—10/11—14/15—19,30,11,Early/Late/Later,10.0/5.0/2.0
+Up Air (Luma),6,**,6—11,--,--,--,4.0
+Down Air,17,-7/-8/-9,17/18—22/23—25/26—32,17,12,Early/Late/Later,8.0/6.0/2.0
+Down Air (Luma),15,**,15—19,--,--,--,5.0

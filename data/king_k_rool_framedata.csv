@@ -1,0 +1,23 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-16,4—5,19,--,--,2.5
+Jab 2,3,-20,3—4,23,--,--,2.5
+Jab 3,5,-21,5—8,25,--,--,7.0
+Forward Tilt,12,-20/-18,12—13,29,--,Close/Far,11.0/13.0
+Up Tilt,5,-21,5—6/7—13,24,--,Early/Late Far/Close,12.5/8.9/7.4
+Down Tilt,13,-17,13/14—15,27,--,Frame 13/Close/Far,13.0/8.0/7.0
+Dash Attack,7,-38,7—14/15—25,35,--,Early/Late,15.0/11.0
+Forward Smash,19,-29/--/-29/--/-29/-30,19—21,40,--,(neutral far/close)/(Down far/close)/(Up far/close),19.0/16.5/19.5/16.9/19.9/17.3
+Up Smash,6/19/22,-55/-42,(6—9/10—11)(19/20/21—23)(22—23),48,--,Hit 1/Hit 2/Hit 3,15.0/3.0/8.0
+Down Smash,22,-29/-34,22—24/25,38,--,Body/Shockwave,18.0/4.0
+Neutral Air,7,-4/-5,7—8/9—30,15,9,Early/Late,12.0/8.0
+Forward Air,11,-5/-6/-7/-7,11/12—14/15—17,37,11,"Early far/close, Late far/close",15.5/13.5/10.0/8.0
+Back Air,18,-7/-9,18—20,29,14,Far/Close,19.0/14.5
+Up Air,7,-8/-9,7—13/14—19,52,13,Early/Late,14.0/10.0
+Down Air,14,-9/-10,14—15/16—21,40,14,Early/Late,12.0/9.0
+Neutral B (Blunderbuss Kannonball),25,-25,30—150,--,--,--,13.0
+"Blunderbuss, Vacuum",7,--,7—36,--,--,--,--
+"Blunderbuss, Second Shot",35,+7/-4,**,--,--,Person/Cannonball,18.0/17.0
+Side B (Crownerang),27,-26,27—64/65—...,--,--,Throw/Return,9.0/7.0
+Up B (Propellerpack),11,**,11/26/41/56/71/...108,--,30,--,3.0
+Down B (Gut Check),5 (Start of Counter),**,**,--,--,--,**
+"Gut Check, Counterattack","3, 9",--,"3—6, 9—12",26,--,"Front, Reverse",--

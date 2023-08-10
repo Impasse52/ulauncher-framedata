@@ -1,0 +1,25 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-19 [-19],5—7,21,--,--,2.5
+Jab 2,5,-25 [-24],5—7,26,--,--,2.0
+Jab 3,7,-23 [-22],7—9,26,--,--,4.0
+Forward Tilt,14,-15/-11/-14 [-13/-8/-12],14—16,21,--,close/middle/tip,7.5/12.0/9.0
+Up Tilt,10/13,-32/-21/-19/-18 [-31/-18/-16/-14],10/13-15(16-25),12,--,launcher/close/middle/tip,"1.0 (Hit 1)/(11.0/12.5/14.0 (Hit 2, Clean))/(7.0/8.5/10.0 (Hit 2, late))"
+Down Tilt,9,-25,9—15(16—22),20,--,early/late,8.0/6.0
+Dash Attack,14,-20(-22) [-16(-19)],14—15(16—19),27,--,--,13.0/7.0
+Forward Smash,24,-33/-29/-32 [-31/-26/-30],24—25,42,--,close/middle/tip,13.5/20.0./15.0
+Up Smash,23,(-29/-31 front)/(-23/-25/-24 back) [(-26/-29/-30)/(-21/-23/-25)],23/24-[26]-28,35,--,early close/middle/far / late close/middle/far,(15.5/10.5/11.5 Early Hit)/(17.0/13.0/12.0 Clean Hit)
+Down Smash (if hitting the ground),21,-20/-22 [-17/-20],21—23,30,--,Close/Far,16.5/13.5/10.5/11.5/13.0
+Down Smash (does not hit the ground),21,-24 [-22],21—22,31,--,Close/Far,10.5/11.5/13.0
+Neutral Air,9,-5 [-4],9—10,23,9,--,8.5
+Forward Air,13,-10 [-9],13—14(15—18),23,14,early close/middle/far / late close/middle/far,(8.0/10.0/11.0 Clean hit)/(5.5/7.0/8.0 Late hit)
+Back Air,15,-11 [-10],15—16,30,16,close/middle/far,9.5/14.5/11.5
+Up Air,16,-17 [-17],16—21,32,21,close/middle/far,7.0/11.0/8.5
+Down Air,19,Normal: -27 [-25] \| Landing: -19 [-18],19—23/24—39(1—2),22,26,early/late/landing,Normal: (15.0/10.0 Clean hit)/10.0 \| Landing: (5.0/7.0)/5.0%
+Neutral B (Flare),41,-28,(22—27/28—34/35—39/40—95)/98—101,--,--,initial/explode,3.0 / 10.5
+Megaflare,52,-22,21—48/(58—60/61—66/67—68),5,--,initial/multi/explode,3.5 / 3.7 / 9.0
+Gigaflare,130,-13,130—176/(183—184/185—200/201—202),--,--,initial/multi/explode,6.0 / 3.7 / 11.0
+Side B (Shadow Flare),16—42,-17 — -15,8-14,24,--,projectile/explode,1.6—4.5 / 6.5
+"Up B, no charge (Blade Dash)",25,-27 [-26],25—28,28,27,--,7.0
+"Up B, charge (Octaslash)",36,-63 — -61/-47 [-62 — -60/-45],36/38/40/42/44/46/48/50,54,56,multi/final,2.3 (Multihits)/(7.0/2.3 Final hit)
+"Down B (Scintilla, Miss)",38,-25 [-25],38—52 (Rehit: 5)/53,33,**,multi/final,1.0 / 5.0
+"Down B (Scintilla, Success)",7,**,7—21/22,29,**,**,(2.0/4.0)/(6.5/18.0)

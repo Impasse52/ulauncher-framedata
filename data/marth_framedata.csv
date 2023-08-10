@@ -1,0 +1,28 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-16/-14,5—6,19,--,Close/tipper,3.0/5.0
+Jab 2,4,-19/-18,4—5,23,--,Close/tipper,4.0/6.0
+Forward Tilt,8,-16/-14,8—11,22,--,Close/tipper,9.0/12.0
+Up Tilt,6,-21/-18,6—8/9—12,21,--,Closest/Close/Tipper,5.0/6.0/10.0/
+Down Tilt,7,-9/-6,7—8,15,--,Close/tipper,7.0/10.0
+Dash Attack,13,-22/-20,13—16,33,--,Closest/Close/Tipper,9.0/10.0/13.0
+Forward Smash,10,-32/-29,10—13,38,--,Close/tipper,13.0/18.0
+Up Smash,13,-41/-36,13—14/13—17,41,--,Body Launcher/Close/Tipper,3.0/13.0/17.0
+Down Smash,6/21,-43/-41/-26/-23,6—7/21—23,32,--,"Close/tipper, close/tipper",8.0/12.0/12.0/17.0
+Neutral Air,6/15,-5/-4/-4/-3,6—7/15—21,28,7,close/tipper/close/tipper,3.5/5.0/7.0/9.5
+Forward Air,6,-6/-5,6—8,29,10,Close/tipper,8.0/11.5
+Back Air,7,-6/-5,7—11,28,10,Close/tipper,9.0/12.5
+Up Air,5,-4/-3,5—9,36,8,Close/tipper,9.5/13.0
+Down Air,9/11,-9/-9/-9,9—13/11,46,14,Close/meteor/tipper,12.0/15.0/14.0
+Neutral B (Shield Breaker),19—79,-23 to Shieldbreak,19—20 (or frames 8-9 after release),31,--,--,8.0—24.0
+Side B (Dancing Blade),9,-26/-16,9—11,28,--,Close/Tipper,2.5/3.0
+Dancing Blade 2 Neutral,5,-29/-29,5—7,31,--,Close/Tipper,2.5/3.0
+Dancing Blade 3 Neutral,4,-35/-34,4—6,37,--,Close/Tipper,3.0/4.0
+Dancing Blade 4 Neutral,7,-43/-42,7—9,46,--,Close/Tipper,4.0/6.0
+Dancing Blade 2 Up,4,-30/-30,4—7,31,--,Close/Tipper,2.5/3.0
+Dancing Blade 3 Up,5,-34/-33,5—7,36,--,Close/Tipper,3.0/4.0
+Dancing Blade 4 Up,6,-32/-31,6—10,34,--,Close/Tipper,5.0/7.0
+Dancing Blade 3 Down,5,-34/-32,5—7,36,--,Close/Tipper,3.0/4.0
+Dancing Blade 4 Down,7,-50/-49,7/10/13/16/19—21,53,--,Multi/Final/Final Tipper,2.0/4.0/5.0
+Up B (Dolphin Slash),5,--,5—6/6—11,--,24,Early/Late,11.0/7.0
+Down B (Counter),6 (Start of Counter),--,**,--,--,--,--
+"Counter, Attack",4,--,4—6,34,--,--,--

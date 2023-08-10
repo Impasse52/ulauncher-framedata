@@ -1,0 +1,28 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-16,5—6,19,--,--,3.3
+Jab 2,4,-19,4—5,23,--,--,4.7
+Forward Tilt,8,-15,8—11,22,--,--,11.0
+Up Tilt,6,-19,6—8/9—12,21,--,Early/Late,7.6/8.0
+Down Tilt,7,-8,7—8,15,--,--,8.5
+Dash Attack,13,-21,13—16,33,--,--,10.9
+Forward Smash,10,-31,10—13,38,--,--,15.0
+Up Smash,13,-41/-35,13—14/13—17,41,--,Body Launcher/Sword,3.0/14.2
+Down Smash,6/21,-42/-24,6—7/21—23,32,--,--,9.5/14.0
+Neutral Air,6/15,-4/-3,6—7/15—21,28,7,--,4.2/8.5
+Forward Air,6,-6,6—8,29,10,--,10.5
+Back Air,7,-5,7—11,28,10,--,11.8
+Up Air,5,-3,5—9,36,8,--,11.4
+Down Air,9/11,-9/-9,9—13/11,46,14,Sour/Meteor,12.3/14.2
+Neutral B (Shieldbreaker),19—79,-23 to Shieldbreak,19—20 (or frames 8—9 after release),31,--,--,8.5—23
+Side B (Dancing Blade),9,-26/-16,9—11,28,--,--,2.8
+Dancing Blade 2 Neutral,5,-29,5—7,31,--,--,2.8
+Dancing Blade 3 Neutral,4,-35,4—6,37,--,--,3.3
+Dancing Blade 4 Neutral,7,-43,7—9,46,--,--,4.7
+Dancing Blade 2 Up,4,-30,4—7,31,--,--,2.8
+Dancing Blade 3 Up,5,-34,5—7,36,--,--,3.3
+Dancing Blade 4 Up,6,-32,6—10,34,--,--,5.6
+Dancing Blade 3 Down,5,-34,5—7,36,--,--,3.3
+Dancing Blade 4 Down,7,-50,7/10/13/16/19—21,53,--,Multi/Final,2.0/4.2
+Up B (Dolphin Slash),5,--,5—6/6—11,--,24,Early/Late,11.0/7.0
+Down B (Counter),6 (Start of Counter),--,**,--,--,--,--
+"Counter, Attack",4,--,4—7,33,--,--,--

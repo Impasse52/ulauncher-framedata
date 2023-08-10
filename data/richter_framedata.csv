@@ -1,0 +1,24 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-21,5,24,--,--,2.0
+Jab 2,3,-23,3—4,25,--,--,2.0
+Rapid Jab,9/12/15...,--,**,--,--,--,0.5
+Rapid Jab Finisher,3,-37,**,--,--,--,2.5
+Whip Dangle,--,**,**,--,--,Chain/Ball,1.0/1.5
+Forward Tilt,12,-8/-7,12—13,17,--,Chain/Ball,10.0/12.0/2.0
+Up Tilt,10,-17,10—22,15,--,Ball/Chain,10.0/2.0
+Down Tilt 1,7,-31,7—23,21,--,--,5.0
+Down Tilt 2,8,-42/-28,8—19/20—28,29,--,Early/Late,7.0/3.5
+Dash Attack,10/13/16/19/22/24,-26,10/13/16/19/22/24,30,--,--,2.0/3.5
+Forward Smash,24,-28/-26,24—25,37,--,Chain/Ball,14.0/16.0/18.0
+Up Smash,16,-27/-26,16—18,35,--,Ball/Chain,16.0/14.0
+Down Smash,14/20,-33/-30/-27/-24,14—15/20—21,34,--,Chain/Ball,12.0/14.0/16.0
+Neutral Air,8...,-12/-11,8—9/11—12/14—15/17—18/20—21/23—24/26—27,15,14,Multi/Final,1.0/4.0
+Forward Air,14,-6/-5/-8,14,25,10,Ball/Chain/Arm,12.0/10.0/2.0
+Back Air,14,-6/-5/-8,14—15,24,10,Ball/Chain/Arm,12.0/10.0/2.0
+Up Air,14,-6/-5/-8,14—16,23,10,Ball/Chain/Arm,12.0/10.0/2.0
+Down Air,13,-21/-23,13—14/15—36,12,26,Early/Late,12.0/7.0
+Neutral B (Axe),30,-6,30—97,--,--,--,15.0
+Side B (Cross),19,-15,19—64,--,--,Smash/Tilt/Return,8.0/6.0/5.0
+Up B (Uppercut),6/9/...,**,6/9—20/21 (rehit: 3),--,26,First/Multi/Final,2.0/1.5/6.0
+Down B (Holy Water),18,**,18...,27,--,--,2.0—2.9
+Holy Water Explosion,1/4/7/15/23/31/39/47/55,**,1/4/7/15/23/31/39/47/55,--,--,--,1.4

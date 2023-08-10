@@ -1,0 +1,23 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-20,4—6,21,--,--,2.2
+Jab 2,4,-17,4—6,18,--,--,2.2
+Jab 3,5,-21,5—7,24,--,--,3.8
+Rapid Jab,5/7/9...,--,**,--,--,--,0.4
+Rapid Jab Finisher,7,-31,7—8,33,--,--,1.6
+Forward Tilt,7,-12/-14,7—9,19,--,Far/Close,9.0/7.0
+Up Tilt,11,-10,11—14,17,--,--,10.0
+Down Tilt,12,-19/-19,12—17(18—21),16,--,Far/Close/Late,6.0/5.0/4.0
+Dash Attack,9,-16,9—12(13—20),16,--,Early/Late,12.0/8.0
+Forward Smash,19,-22,19—21,31,--,--,16.0
+Up Smash,9...,-35,9—10/13—25 (rehit: 2)/26—27,40,--,First/Multi/Final,1.0/1.5/3.6
+Down Smash,13,-23,13—17,29,--,--,15.0
+Neutral Air,10/13/16/19/22/25/28/31,-14/-13,10-11/13-14/16-17/19-20/22-23/25-26/28-29/31-32,15,16,Multi/Final,0.8/4.2
+Forward Air,15,-6/-6,15—17(18),33,11,Early/Late,15.0/12.0
+Back Air,8/12/16,-16/-15,8—9/12—13/16—17,26,18,Multi/Final,1.6/4.8
+Up Air,7/9,-10/-9,7—8/9—11,22,12,First/Second,1.6/5.8
+Down Air,15,-23,15—17(18—45)/1—2,11,27,Falling/Landing,10.0/2.0
+Neutral B (Egg Firing),13,-27,13—22(23—52/53—102),--,--,Early/Late/Latest,5.4/4.6/3.8
+Breegull Blaster,4(+28),-13 — -14,4—6/7—9/10—15/16—18,6,--,--,2.4 — 0.8
+Side B (Wonderwing),18,-54,18—35(36—53),29,--,Early/Late,22.0/16.0
+Up B (Shock Spring Jump),15,-20,**,--,42,--,3.0
+Down B (Rear Egg),10,-23,10—143/1,--,--,Contact/Explosion,0.5/8.5

@@ -1,0 +1,21 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-15,4—5,18,--,--,2.5
+Jab 2,3,-20,3—4,23,--,--,2.5
+Jab 3,5,-29,5—8,32,--,--,5.0
+Forward Tilt,12,-17,12—13,28,--,--,12.5
+Up Tilt,11,-17,11—16/17—21,18,--,Early/Late,12.0/8.0
+Down Tilt,7,-13,7—8,20,--,--,8.0
+Dash Attack,15,-17,15—16/17—19,28,--,--,14.0
+Forward Smash,31,-39/-36,31—32/33—35,48,--,Early/Late,19.0/22.0
+Up Smash,25,-34,25—29/30—31,39,--,Early/Late,17.0/10.0
+Down Smash,13/32,-46/-25,13—15/32—33/34—36,34,--,First/Second/Second Late,16.0/19.0/9
+Neutral Air,10,-5,10—14/15—22,37,8,Early/Late,7.5/6.0
+Forward Air,11,-9,11—15,36,14,--,13.0
+Back Air,7,-6,7—9,45,11,--,14.0
+Up Air,13,-5,13—18,38,9,--,11.0
+Down Air,16,-9,16—17,37,14,--,15.0
+Neutral B (Eruption),30-239,-38 to Shieldbreak,**,--,--,--,10.0—35.0
+Side B (Quickdraw),16,-28 to -22,**,--,30,--,6.0—13.0
+Up B (Aether),15/44/51/61,-29,**,--,36,First/multi/falling/landing,6.0/1.0/3.0/6.0
+Down B (Counter),9 (Start of Counter),--,--,--,--,--,--
+"Counter, Attack",4,--,4—5,38,--,--,--

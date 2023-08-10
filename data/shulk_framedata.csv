@@ -1,0 +1,22 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-17,5,20,--,--,2.0
+Jab 2,5,-25,5,28,--,--,1.5
+Jab 3,6,-32,6—7/8,36,--,Early/Late,5.0/4.2
+Forward Tilt,12,-19/-20,12—13,30,--,Blade/Beam,13.5/12.0
+Up Tilt,11,-18/-19,11—12/13—23,16,--,Blade/Beam,10.0/9.0
+Down Tilt,10,-12/-13,10—11,20,--,Blade/Beam,9.5/7.5
+Dash Attack,12,-16/-18,12—13,27,--,Blade/Beam,12.5/11.0
+Forward Smash,14/23,-35/-36,14—15/23 (Angled: 14—16/23),44,--,First/Blade/Beam,5.5/13.0/11.5
+Up Smash,18/30,-28,(18—21/22—29)/(30—33),34,--,First/Second,4.5/13.5
+Down Smash,18/23/28/35/41,-/-56/-51/-52/-47/-48/-41/-42/-36/-37,18—19/23—24/28—29/35—36/41—42,40,--,"1st blade/beam, 2nd blade/beam, 3rd blade/beam, 4th blade/beam, 5th blade/beam",14.0 / 11.0 / 12.0 / 10.0 / 10.0 / 8.0 / 8.0 / 6.0 / 6.0 / 4.0
+Neutral Air,13,-2/-3,13—30,29,6,Blade/Beam,8.5/7.5
+Forward Air,14,-6/-7,14—18,23,10,Blade/Beam,8.0/6.5
+Back Air,19,-6/-7,19—21(22—23),31,11,Blade/Beam,12.5/8.5
+Up Air,14/24,-6/-5/-5,14—16/24—26,28,9,first/blade/beam,5.5/10.5/8.0
+Down Air,14/23,-11/-9/-10,14—15/23—25,35,14,first/blade/beam,7.5/11.5/10.5
+Neutral B (Monado Arts),--,--,**,--,--,--,--
+Side B (Back Slash),22,-29/-30/-25/-27,"Ground: 22/23-31/32-33
+		Air: 22/23—...1—2",40,40,"front blade/beam, back blade/beam",10.0/9.0/16.0/14.0
+Up B (Air Slash),10,**,10—11/12—14/15—17,--,30,Blade/Beam,6.0/5.0
+Air Slash 2,9,**,9—10,--,30,--,5.5
+Down B (Vision),7 (Start of Counter),--,**,--,-,--,--

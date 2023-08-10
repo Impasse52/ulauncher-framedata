@@ -1,0 +1,21 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,2,-17,2,20,--,--,1.5
+Jab 2,3,-19,3—4,21,--,--,1.5
+Rapid Jab,5/7/9/...,--,**,--,--,--,0.3
+Rapid Jab Finisher,5,-31,5—6,34,--,--,3.0
+Forward Tilt,6,-12,6—8,16,--,--,6.0
+Up Tilt,5/12,-12,5(6—9)/12(13—16),13,--,first (early/late)/second,3.5/2.7/4.0
+Down Tilt,8,-9/-10/-11,8—10,19,--,Close/far/farthest,13.0/12.0/10.5
+Dash Attack,8,-22,8—11(12—18),21,--,Early/Late,9.0/6.0
+Forward Smash,17,-20,17—19(20),28,--,Early/Late,16.0/12.0
+Up Smash,7/13,-27,7(8—12)/13—20,29,--,--,4.0/13.0
+Down Smash,8,-28,8—10,36,--,Far/Close,15.0/12.0
+Neutral Air,3/6/10/17,-7/-6,3—5/6—9/10—13/17—18,28,9,First/Multi/Final,3.0/2.0/4.0
+Forward Air,7...,-10,7—25(rehit: 4)/26—27,22,15,Multi/Final/Landing,1.0/4.0/3.0
+Back Air,9,-8/-10,9—10(11—16),21,13,Early/Late,13.0/7.0
+Up Air,7,-5,7—11,22,9,--,9.0
+Down Air,10,-6/-7,10—14/15—24,19,11,Early/late,13.0/8.0
+Neutral B (Blaster),8/7,-24/-22,8—34/7—33,7,--,Ground/Air,3.0
+Side B (Falco Phantasm),13/18,-19/-14,(13—18/17—22)/(18—27),23,16,Ground/Air,7.0
+Up B (Fire Bird),20/22/24/26/28/30/32/43-46/47/49/51/53/55/57/59/61,-21,20/22/24/26/28/30/32/43-46/47/49/51/53/55/57/59/61,24,18,--,2.0/3.0
+Down B (Reflector),5,-33,5—14,30,--,--,5.0

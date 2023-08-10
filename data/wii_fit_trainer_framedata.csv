@@ -1,0 +1,21 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,4,-18,4—5,20,--,--,2.0
+Jab 2,3,-23,3—4,25,--,--,2.0
+Jab 3,5,-30,5—6,33,--,--,3.0
+Forward Tilt,6,-16,6—10,22,--,--,11.0
+Up Tilt,5,-14,5—12,17,--,--,10.0
+Down Tilt,9,-17,9—12,26,--,--,13.5
+Dash Attack,6,-20,6—8(9—13),25,--,Early/Late,10.0/6.0
+Forward Smash,16,-30,16—19,37,--,--,15.5
+Up Smash,11,-33/-31,11—12(13—19),35,--,Body/Arms,15.0/18.0
+Down Smash,18,-25,18—21,25,--,--,12.0
+Neutral Air,9/12,-5/-4,9—11/12—13,21,8,--,5.0/9.0
+Forward Air,9,-2/-4/-3/-4,9(10/11—15),20,7,"Early/Late, Meteor early/late",12.0/7.5/10.0/6.0
+Back Air,5,-7/-8/-9,5(6—11),37,12,Far/close/late,13.5/11.0/6.0
+Up Air,6,-5,6—10,29,9,--,10.0
+Down Air,15,-7,15—17(18—20),19,12,--,13.0
+Neutral B (Sun Salutation),4(+17),-26 to -16,21—90,--,--,Uncharged—Full Charge,5.0—20.7
+"Sun Salutation, Full Charge",21,-16,21—90,--,--,--,21.0
+Side B (Header),15—31,-11/-13,**,--,15,Header/ball,15.0/8.9—10.3
+Up B (Super Hoop),6/23/40,**,**,--,--,--,5.0
+Down B (Deep Breathing),39,--,**,--,--,--,--

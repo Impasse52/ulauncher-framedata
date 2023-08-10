@@ -1,0 +1,22 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,5,-10,5—6,12,--,--,2.0
+Jab 2,6,-11,6—7,13,--,--,2.0
+Jab 3,6,-25,6—7,29,--,--,4.0
+Forward Tilt,9,-11,9—13,16,--,--,9.0
+Up Tilt,8,-11,8—12,13,--,--,5.0
+Down Tilt,9,-6,9—10,12,--,--,7.0
+Dash Attack,7,-13,7—9,19,--,--,8.0/6.0
+Forward Smash,16,-22,16—17,31,--,--,14.0
+Up Smash,11,-22,11(12—13/14—15),27,--,--,13.0
+Down Smash,9/17,-29/-20,9—10/17—18,28,--,--,12.0/13.0
+Neutral Air,6/13,-3/-4,6—7/13—14,27,7,--,8.5/7.0
+Forward Air,14,-6,14—15,23,11,--,13.0
+Back Air,6,-4,6—9,26,8,--,8.0
+Up Air,11,-8/-9,11—13(14—40),19,13,Early/Late,14.0/11.0
+Down Air,17,-17/-16,17—25(26—64)/1,15,23,Early/Late/Landing,16.0/12.0
+Z Air,11,-3,11—20,53,8,--,4.0
+Neutral B (Hero's Bow),18—60,-12 to -6,18—77,--,--,Uncharged—Full Charge,4.0—12.0
+Side B (Boomerang),27,-9 to -6,27—36(37—77/78—173),--,--,Going/Returning,5.0—9.6/3.0
+Up B (Spin Attack),6...,-25,6—14/15—46/48 (rehit: 4),29,--,Multi/Final,1.0/3.0
+"Up B, Air (Spin Attack, Air)",8...,--,8—10/12—13/16—18/19—20/22—24/27—28/31—33/35/44—48,--,30,First/Multi/Final,4.0/2.0/4.0
+Down B (Bomb Pull),--,--,**,--,--,--,--

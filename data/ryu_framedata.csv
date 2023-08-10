@@ -1,0 +1,30 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1 (Light),2,-10,2—3,12,--,--,1.5
+"Jab (Heavy, Close)",7,-19,7(8—11),26,--,--,12.0/8.0
+"Jab (Heavy, Far)",9,-13,9—10,22,--,--,10.0
+Jab 2,3,-21,3—4,23,--,--,1.5
+Jab 3,8,-21,8—10,25,--,--,5.0
+"Forward Tilt (Light, Close)",3,-20,3—4,25,--,--,6.0
+"Forward Tilt (Light, Far)",8,-8,8—11,12,--,--,6.8
+Forward Tilt (Heavy),15/17,-13,15/17—18,18,--,--,3.0/6.0
+Up Tilt (Light),3,-8,3—6,8,--,--,2.0
+Up Tilt (Heavy),7,-19,7(8—11),26,--,--,12.0
+Down Tilt (Light),2,-9,2—3,11,--,--,1.6
+Down Tilt (Heavy),6,-15,6—7,20,--,Strong/Weak,7.0/5.5
+Dash Attack,7,-22,7—9(10—15),25,--,Early/Late,12.0/8.0
+Forward Smash,15,-19/-18,15—17,28,--,Close/Far,16.0/17.5
+Up Smash,9,-24,9(10—12),32,--,Early/Late,17.0/13.5
+Down Smash,5,-25,5—6,35,--,Sweet/Sour,16.0/12.0
+Neutral Air,4,-1/-2,4—6(7—31),4,5,Early/Late,8.0/4.5
+Forward Air,8,"-7/-6, -7/-6",8—9(10—14),22,11,"Early foot/knee, Late foot/knee","9.0/14.0, 8.0/12.0"
+Back Air,8,-4/-5,8—9,32,10,Close/Far,16.0/13.0
+Up Air,6/9,-8/-8,6—7/9—11,24,11,--,5.0/6.0
+Down Air,8,-10,8—12,33,15,--,12.0
+Neutral B (Hadouken),12,"-27/-28/-28, -26/-25/-25",12—18(19—93) / 12—17(18—78) / 12—16(17—61),--,--,"Normal Light/Medium/Heavy, True Light/Medium/Heavy","9.0/9.5/10.0, 11.25/11.875/12.5"
+Shakunetsu Hadouken,12,-23/-23/-27,12—21(22—79) / 12—20(21—72) / 12—19(20—66),--,--,Light/Medium/Heavy,1.1/9.3
+Side B (Tatsumaki Senpukyaku),8,"-40—-72/-35/-67/-65, -38—-70/-33/-64/-63","8-9, 13-15, 29-31, and 45-47",11,--,"normal initial/light/medium/heavy, true initial/light/medium/heavy","11.0/11.0/12.0/13.0, 12.76/12.76/13.92/15.08"
+"Side B, Air (Tatsumaki Senpukyaku, Air)",8,"-62 to -61, -61 to -60",8—9/**,--,--,"normal initial/light/medium/heavy, true initial/light/medium/heavy","11.0/10.0/11.0/12.0, 12.76/11.6/12.76/13.92"
+Up B (Shoryuken),6,**,6(7—8/9—19),--,22,Light/Medium/Heavy/Late,13.0—15.0/7.0
+True Shoryuken,6,**,6(7—8/9—19),--,15,Light/Medium/Heavy/Late,15.6—18.0/8.4
+Down B (Focus Attack),"11 (+21), 11(+31), 11(+59)","-33, -34, unblockable",32—33/42—43/70—71,--,--,"Stage 1, Stage 2, Stage 3","12.0, 10.0, 17.0"
+"Focus Attack, Dash Cancel",--,-8/-9,**,--,--,--,--

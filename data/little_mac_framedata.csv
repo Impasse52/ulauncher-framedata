@@ -1,0 +1,26 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,1,-12,1,15,--,--,1.5
+Jab 2,1,-12,1,15,--,--,1.5
+Jab 3,4,-19,4—5,24,--,--,5.0
+Rapid Jab,4/6/8...,--,**,--,--,--,0.5
+Rapid Jab Finisher,5,-25,5,29,--,--,3.0
+Forward Tilt,4/12,-17,4—5/12—13,24,--,--,4.0/8.0
+Up Tilt,4,-18,4—10,19,--,--,6.5
+Down Tilt,3,-14,3—4,21,--,--,8.0
+Dash Attack,7,-16,7—9,24,--,--,10.0
+Forward Smash,14/14/15,-16/-16/-13,14—15/14—15/15,28,--,Normal/Up/Down,20.0/20.0/24.0
+Up Smash,10,-23,10(11—14),33,--,Early/Late,21.0/15.0
+Down Smash,10/17,-23/-16,10—11/17—18,24,--,--,13.0
+Neutral Air,2,-8,2,13,10,--,2.0
+Forward Air,10,-10,10—12,24,13,--,5.0
+Back Air,11,-13,11—12,25,16,--,6.0
+Up Air,5,-10,5—8,33,13,Strong/Weak,5.0
+Down Air,7,-15/-15,7—10,17,18,Strong/Weak,5.0/4.0
+"Neutral B, Partial Charge (Straight Lunge, Partial Charge)",4(+32),-34 to -19,**,--,--,Uncharged—Charged,12.0—28.6
+"Neutral B, Full Charge (Straight Lunge, Full Charge)",123,-82,**,--,--,"Meter filled: (fully charged) 0.9, (fully charged, reversed) 0.84 arrows.",30.0
+K.O. Punch,9,Unblockable/-54,9—11,65,--,Ground/Air,35.0/13.0
+Side B (Jolt Haymaker),8/25,-39 to -36,8—14/25—31 (windbox: 7—17),29,--,Earliest/Latest,14.00
+"Side B, Air (Jolt Haymaker, Air)",8/25,-32 to -31,8—14/25—31,22,--,Earliest/Latest,14.00
+Up B (Rising Uppercut),3...,**,3/6—21(rehit: 4)/26,--,30,--,3.0/1.0/3.0
+Down B (Slip Counter),5 (Start of Counter),--,5—27 (counter),--,--,--,--
+"Slip Counter, Counterattack",16,--,16—21,28,--,--,--

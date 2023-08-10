@@ -1,0 +1,22 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,2,-13,2,17,--,--,2.5
+Jab 2,3,-13,3,16,--,--,1.5
+Jab 3,6,-19,6—7,22,--,--,3.5
+Forward Tilt,7,-10/-8,7—9,16,--,Cose/far,7.5/11.0
+Up Tilt,4/7,-18,4/7—10(11—14/15—16),17,--,first/second/late,1.5/8.0/5.0
+Down Tilt,3,-6,3—4,11,--,--,5.0
+Dash Attack,13,-15/-12,13—17,20,--,Close/Far,9.0/13.0
+Forward Smash,14,-21,14—15,30,--,Close/far,14.0/15.0
+Up Smash,28/30,-54,28/30—32(33—37/38—42/43—47/48—52/53—54),44,--,Launcher/Main Hit[diminishing over time],2.0/21.0[20.0/18.0/16.0/14.0]
+Down Smash,20/29/39,-12,20—22/29—31/39—41,18,--,--,17.0/14.0/11.0
+Neutral Air,7.../26,-10/-9,7—21 (rehit: 5) / 26,23,12,Multi/Final,2.0/4.0
+Forward Air,9,-3/-2,9—10/11—12,29,7,Close/Far,9.0/12.5
+Back Air,15,-5/-4/-6,15—19(20—22),17,9,Close/medium/far,9.0 / 12.0 / 7.0
+Up Air,7,-3,7—10,21,7,--,11.0
+Down Air,10/18/26/34,-14/-13,10—12/18—20/26—28/34—35,21,16,Multi/Final,3.5/5.0
+Z Air,9,-2,9—12(13—21),30,8,--,5.0/3.0
+Neutral B (PK Freeze),40-92,-14 to -5,40—43(92—95),--,--,--,10.0—23.0
+Side B (PK Fire),21,-24,21—38(1—19),14,19,Spark/Burst Close/Burst Far,3.0/7.0/4.0
+Up B (PK Thunder),20,--,20—**,--,--,Head/Tail,2.5/0.7
+"Up B, Self-hit (PK Thunder 2)",1/4/6/8/10/12/14/17/20/23/26/29,-21,1—2/4—5/6—7/8—9/10—11/12—13/14—15/17—19/20—21/23—24/26—27/29—30,30,30,First/early/late/final,5.0/2.0/1.5/10.0
+Down B (PSI Magnet),19 (7 is start of absorb),+0,19,8,--,--,8.0

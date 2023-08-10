@@ -1,0 +1,25 @@
+Move name,Startup,Advantage,Active frames,Endlag,Landing lag,Which hitbox,Base damage
+Jab 1,2,-13,2—3,16,--,--,2.4
+Jab 2,2,-15,2—3,17,--,--,2.2
+Jab 3,7,-13,7—8,17,--,5,4.4
+Rapid Jab,6/10/14...,**,6/10/14...,--,--,--,0.6
+Rapid Jab Finisher,7,-29,6—7,33,--,4,3.4
+Forward Tilt 1,7,-14,7—8,19,--,--,5.5
+Forward Tilt 2,5,-20,5—6,25,--,--,6.0
+Up Tilt,6,-11/-13,6—13,13,--,Head/Body,9.0/7.0
+Down Tilt,9,-10/-10,9—11,15,--,Close/Far,6.0/7.0
+Dash Attack,7,-28,7—9/10—14,33,--,Early/Late,10.0/7.0
+Forward Smash,16,-25/-22,16—17,34,--,Close/Far,15.0/19.0
+Up Smash,12/16,-27,12—15/16—18,33,--,--,3.0/12.0
+Down Smash,10/14,-24,10—11/14—15,28,--,--,12.0/14.0
+Neutral Air,8/11/14/17/18,-13/-13,8—17/18—19,28,15,Multi/Final,2.0/3.0
+Forward Air,7,-9/-9,7—9,35,13,Close/Far,9.0/11.0
+Back Air,14,-11,14—15,46,16,--,14.5
+Up Air,7,-6,7—9,29,10,--,10.0
+Down Air,9,-14/-14,9—11/12—14,30,18,Early/Late,11.0/9.0
+Neutral B (Ptooie),9,+6/-3,9...,--,--,Initial/Blown Away/After Bounce,14.0/18.0/15.3
+Side B (Poison Breath),10(+11),**,21—102,--,--,--,!!!
+"Side B, Full Charge (Poison Breath, Full Charge)",10,**,21—142,--,--,--,!!!
+Up B (Piranhacopter),13...,**,13-14/15/16-55/56-61/62-67,--,20,Hit 1/Multihits (Early)/Multihits (Mid)/Multihits (Late)/Final Hit,1.2/4.0
+Down B (Long Stem Strike),2(+18),-31 to -17 (-10 more when tipped over),**,--,--,--,8.4—26.0
+Footstool Attack,13,--,5—6,16,--,--,4.0
